@@ -36,13 +36,12 @@ section {
   flex: 1;
   background-color: #000;
   padding: 40px;
-  background-image: url('');
+  background-image: url('images/wc1934italy-italy 1.png');
   background-repeat: no-repeat;
-  background-size:80%;
-
+  background-size: 80%;
 }
 #p1930 {
-  background-image: url('')
+  background-image: url('images/wc1934italy-italy 1.png');
 }
 
 .mustard-text {
