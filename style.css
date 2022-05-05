@@ -1,0 +1,59 @@
+@import url('@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Montserrat:ital, wght@0, 400;0, 700;1, 500&display=swap');') ; /*
+font-family: 'Italiana', serif;
+font-family: 'Montserrat', sans-serif;
+*/ body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 19.5px;
+  margin: 0;
+}
+.shadow {
+  text-shadow: 15px 15px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  font-family: 'Italiana', serif;
+  size: 400px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 100px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-style: italic;
+}
+main {
+  width: 800vw;
+  height: 100vh;
+  display: flex;
+}
+section {
+  width: 100vw;
+  height: 100vh;
+  flex: 1;
+  background-color: #000;
+  padding: 40px;
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-size:80%;
+
+}
+#p1930 {
+  background-image: url('')
+}
+
+.mustard-text {
+  color: #dfc53e;
+}
+.mustard-bg {
+  background-color: #dfc53e;
+}
+/* section:nth-child(even) {
+  background-color: rgb(153, 248, 216);
+}
+section:nth-child(odd) {
+  background-color: rgb(253, 238, 142);
+} */
